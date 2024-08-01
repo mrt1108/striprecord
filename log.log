@@ -1,0 +1,2 @@
+
+28/07/2024 21:06:11 EXCEPTION: Unable to open URL: https://b-hls-02.doppiocdn.com/hls/156256944/156256944.m3u8 (HTTPSConnectionPool(host='b-hls-02.doppiocdn.com', port=443): Max retries exceeded with url: /hls/156256944/156256944.m3u8 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000019E15BE60C0>: Failed to resolve 'b-hls-02.doppiocdn.com' ([Errno 11001] getaddrinfo failed)")))
